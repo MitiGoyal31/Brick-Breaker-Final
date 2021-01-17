@@ -4,11 +4,11 @@ var paddle, padleanim, bulletPanim;
 // Creating variable for ball and its image
 var ball, ballimg;
 
-// All the variable for UI of the game and its images
+// All the variable for UI of the game and its Images
 var start, startImg;
 var restart, restartImg;
 
-// Variable for Game States
+// Variable for Game State
 var serve, play, end;
 var gamestate = "serve";
 
